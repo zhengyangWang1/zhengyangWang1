@@ -1,5 +1,6 @@
-##                    Welocome to my profile. 👋
-##                     A student major AI
+![Visitor Count](https://profile-counter.glitch.me/zhengyangWang1/count.svg)
+##                    Welocome to my profile. 👋 A student major AI
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
