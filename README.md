@@ -1,4 +1,4 @@
-## My ![Visitor Count](https://profile-counter.glitch.me/zhengyangWang1/count.svg) visitor
+## My ![Visitor Count](https://profile-counter.glitch.me/zhengyangWang1/count.svg) visitor, welcome!
 ### <div align="center">I'm Yang, a student major AI🚀</div>  
   
 
