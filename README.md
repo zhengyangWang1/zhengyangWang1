@@ -1,6 +1,8 @@
 ## My ![Visitor Count](https://profile-counter.glitch.me/zhengyangWang1/count.svg) visitor, welcome!
 ### <div align="center">I'm Yang, a student major AI🚀</div>  
   
+- ⚡This is my blog: https://zhengyangwang1.github.io/ , welcome to get to know me better
+
 
 - 🔭 I’m currently working on [Github hotel-ac-control-system](https://github.com/zhengyangWang1/hotel-ac-control-system)  
   
