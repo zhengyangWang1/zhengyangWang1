@@ -1,6 +1,6 @@
 ## My ![Visitor Count](https://profile-counter.glitch.me/zhengyangWang1/count.svg) visitor, welcome!
 ### <div align="center">I'm Yang, a student major AI🚀</div>  
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=I'm+Yang%2C+a+student+major+AI+%F0%9F%9A%80" alt="Typing SVG" /></a></div>
+
 - ⚡This is my blog: https://zhengyangwang1.github.io/ , welcome to get to know me better
 
 
