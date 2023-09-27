@@ -42,23 +42,22 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zhengyangWang1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhengyangWang1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengyangWang1&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengyangWang1&hide_border=true&layout=compact" align="left" style="width: 95%" />
 
 </td></tr></table>  
 
 <br/>  
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zhengyangWang1)](https://git.io/streak-stats)
 
-<div align="center"> <img src="https://streak-stats.demolab.com?user=zhengyangWang1" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhengyangWang1" /> </div>
 
 <!--
-https://github-readme-streak-stats.herokuapp.com/?user=zhengyangWang1
+
 
 **zhengyangWang1/zhengyangWang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
