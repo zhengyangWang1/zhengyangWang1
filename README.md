@@ -55,9 +55,11 @@
 
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhengyangWang1" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=zhengyangWang1" /> </div>
 
 <!--
+https://github-readme-streak-stats.herokuapp.com/?user=zhengyangWang1
+
 **zhengyangWang1/zhengyangWang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
