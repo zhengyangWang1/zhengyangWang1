@@ -4,10 +4,10 @@
 - ⚡This is my blog: https://zhengyangwang1.github.io/ , welcome to get to know me better
 
 
-- 🔭 I’m currently working on [Github hotel-ac-control-system](https://github.com/zhengyangWang1/hotel-ac-control-system)  
+- 🔭 I’m currently working on [Github NNDL_Project](https://github.com/zhengyangWang1/NNDL_Project)  
   
 
-- 🌱 I’m currently learning Django and Vue  
+- 🌱 I’m currently learning OS and Database
   
 
 - ❓ Ask me about anything related to AI and related technologies  
