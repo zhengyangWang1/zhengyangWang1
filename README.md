@@ -47,7 +47,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengyangWang1&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=zhengyangWang1.github.io" align="left" style="width: 95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengyangWang1&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=zhengyangWang1.github.io,Obsidian-Notes" align="left" style="width: 95%" />
 
 </td></tr></table>  
 
